@@ -159,8 +159,8 @@
 				TargetAttributes = {
 					A990114D1D23F5ED00BE73C0 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = QKPAPN8CG9;
-						DevelopmentTeamName = "Marco Miltenburg";
+						DevelopmentTeam = ZGL9XB3S9G;
+						DevelopmentTeamName = "Miguel Angel Rubio Caballero";
 						ProvisioningStyle = Automatic;
 					};
 					A99011571D23F5ED00BE73C0 = {
@@ -399,6 +399,7 @@
 				A990116C1D23F5ED00BE73C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A990116E1D23F5ED00BE73C0 /* Build configuration list for PBXNativeTarget "MessagekitApp" */ = {
 			isa = XCConfigurationList;
@@ -407,6 +408,7 @@
 				A99011701D23F5ED00BE73C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
